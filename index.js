@@ -131,7 +131,7 @@ function init() {
             {
                 type: 'input',
                 message: 'What is your email address?',
-                name: 'email,'
+                name: 'email'
             }
         ])
         .then(answers => {
